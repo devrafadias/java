@@ -1,2 +1,2 @@
-# java
-Programas desenvolvidos na linguagem de programação Java
+# Programming in Java
+Programs developed in the Java programming language
